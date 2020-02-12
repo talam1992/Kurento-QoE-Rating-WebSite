@@ -1,7 +1,7 @@
-# This is the property of London South Bank University 
-
 # Kurento-QoE-Rating-Website
 
-## @Author: Timothy Lam
+### This is the property of London South Bank University licence 
 
-http://kmsqoe.x10host.com/
+### @Author: Timothy Lam lamt3@lsbu.ac.uk
+
+Kurento QoE Rating Website: http://kmsqoe.x10host.com/
